@@ -1,0 +1,6 @@
+{
+  "name": "Phoenix Creative Labs",
+  "description": "An idea-to-income creative studio helping authors, creators, and experts turn concepts into published ebooks, digital products, and brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
